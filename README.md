@@ -14,7 +14,7 @@ ML Kit &amp; CameraX Reader POC
   - ML Kit & CameraX Libs
 
 ## Functionalities demonstration
-<img src="https://github.com/leogmsantos/LeitorUnificadoPoc/blob/main/demonstration.giff" width="280" height="400"/>
+<img src="https://github.com/leogmsantos/LeitorUnificadoPoc/blob/main/demonstration.gif" width="280" height="400"/>
 
 ## How to integrate
 - Clone the project 
