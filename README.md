@@ -13,7 +13,7 @@ ML Kit &amp; CameraX Reader POC
   - ViewModel - UI related data holder, lifecycle aware.
   - ML Kit & CameraX Libs
 
-## Functionalities demonstration
+## Demonstration 
 <img src="https://github.com/leogmsantos/LeitorUnificadoPoc/blob/main/demonstration.gif" width="380" height="600"/>
 
 ## How to integrate
